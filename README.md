@@ -4,7 +4,7 @@ Contract testing is the interrogation of a deployed or mocked services endpoint 
 
 <img src="https://github.com/susimsek/spring-boot-contract-test-example/blob/main/images/spring-boot-contract-test-example.png" alt="Spring Boot Contract Test Example" width="100%" height="100%"/> 
 
-## Build the native Application
+## Build  Application
 
 ### Prerequisites
 
